@@ -1,0 +1,32 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+#html
+*.html
+
+#others
+*.mk
+*.list
+
+**/Debug/makefile
+Sigfox_PushButton/.metadata
+Sigfox_PushButton/STM32CubeIDE/Debug
+Sigfox_PushButton/STM32CubeIDE/Release
